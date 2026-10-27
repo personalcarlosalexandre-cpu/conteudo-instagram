@@ -1,0 +1,32 @@
+[
+  {
+    "data": "2026-10-28",
+    "dia": "Qua, 28/10",
+    "hora": "07:00",
+    "tipo": "Autoridade",
+    "tema": "Treino igual há 3 meses é treino que parou de funcionar",
+    "foto": "fotos/2026-10-28.jpg",
+    "legenda_file": "legendas/2026-10-28.md",
+    "publicado": false
+  },
+  {
+    "data": "2026-10-30",
+    "dia": "Sex, 30/10",
+    "hora": "07:00",
+    "tipo": "Oferta",
+    "tema": "Consultoria on-line: como funciona na prática",
+    "foto": "fotos/2026-10-30.jpg",
+    "legenda_file": "legendas/2026-10-30.md",
+    "publicado": false
+  },
+  {
+    "data": "2026-11-02",
+    "dia": "Seg, 02/11",
+    "hora": "07:00",
+    "tipo": "Autoridade",
+    "tema": "Por que eu não passo treino antes da anamnese",
+    "foto": "fotos/2026-11-02.jpg",
+    "legenda_file": "legendas/2026-11-02.md",
+    "publicado": false
+  }
+]
