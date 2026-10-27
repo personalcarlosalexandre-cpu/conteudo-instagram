@@ -1,0 +1,21 @@
+Coloque aqui as fotos dos posts.
+
+Nome do arquivo = data do post, no formato AAAA-MM-DD.jpg
+
+Exemplos desta semana:
+- 2026-10-28.jpg   (Qua, 28/10 — autoridade)
+- 2026-10-30.jpg   (Sex, 30/10 — oferta)
+- 2026-11-02.jpg   (Seg, 02/11 — autoridade)
+
+Requisitos:
+- JPEG (.jpg)
+- Vertical 4:5 — 1080 x 1350 px
+- Até 8 MB
+
+Como subir pelo celular:
+1. Abra esta pasta no github.com
+2. Add file -> Upload files
+3. Escolha a foto já renomeada
+4. Commit changes
+
+Depois de subir, avise no chat: "foto no ar".
