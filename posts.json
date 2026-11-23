@@ -28,5 +28,35 @@
     "foto": "fotos/2026-11-02.jpg",
     "legenda_file": "legendas/2026-11-02.md",
     "publicado": false
+  },
+  {
+    "data": "2026-11-25",
+    "dia": "Qua, 25/11",
+    "hora": "07:00",
+    "tipo": "Autoridade",
+    "tema": "Descanso entre séries: o intervalo que decide o seu treino",
+    "foto": "fotos/2026-11-25.jpg",
+    "legenda_file": "legendas/2026-11-25.txt",
+    "publicado": false
+  },
+  {
+    "data": "2026-11-27",
+    "dia": "Sex, 27/11",
+    "hora": "07:00",
+    "tipo": "Oferta",
+    "tema": "Quem começa em dezembro não começa de zero em janeiro",
+    "foto": "fotos/2026-11-27.jpg",
+    "legenda_file": "legendas/2026-11-27.txt",
+    "publicado": false
+  },
+  {
+    "data": "2026-11-30",
+    "dia": "Seg, 30/11",
+    "hora": "07:00",
+    "tipo": "Autoridade",
+    "tema": "Três dias por semana bem montados vencem cinco dias mal montados",
+    "foto": "fotos/2026-11-30.jpg",
+    "legenda_file": "legendas/2026-11-30.txt",
+    "publicado": false
   }
 ]
